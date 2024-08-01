@@ -448,5 +448,5 @@ function getFees(courseChoices: string[]) {
   return fees;
 }
 
-//* Start the program
+//! Start the program
 main();
